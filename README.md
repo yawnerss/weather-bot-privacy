@@ -11,7 +11,7 @@ We use [OpenWeatherMap](https://openweathermap.org/) to fetch weather data. No u
 We do not log any data from your interaction. Everything is processed in-memory and discarded after use.
 
 ## Contact
-If you have any concerns or questions about this policy, please email: `your-email@example.com`
+If you have any concerns or questions about this policy, please email: `haburat9@gmail.com`
 
 ## Updates
 This privacy policy may be updated occasionally. Continued use of WeatherBot indicates your agreement with this policy.
